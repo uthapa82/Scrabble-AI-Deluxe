@@ -1,1 +1,2 @@
- *.* linguist-language=Python
+* linguist-vendored
+*.java linguist-vendored=false
